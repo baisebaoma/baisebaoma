@@ -1,8 +1,8 @@
-### 👋 Glad to know you! I am Yiming (baisebaoma) Tang.
+### 👋 Glad to see you! I am **Yiming (baisebaoma) Tang**.
 
-⌨️ An undergraduate of **<font color="#1C2A67">University of Nottingham Ningbo China</font>**, working for a start-up as a **front-end developer** and a we-media company as a **designer**. I enjoy 🎵 and 🎹 as well.
+⌨️ Undergraduate of **<font color="#1C2A67">University of Nottingham Ningbo China</font>**, working for a start-up as a **front-end developer** and a we-media company as a **designer**. Enjoy 🎵 and 🎹 as well.
 
-✒️ My previous background is mainly related to **graphic design**, while I am trying hard to move to **software engineering** and **computer science**. Learning `react-native🌸`, `Python🐍` and `Java☕️` now.
+✒️ My previous background is mainly related to **graphic design**, while I am moving to **software engineering** and **computer science**. Learning `react-native🌸`, `Python🐍` and `Java☕️`.
 
 🏫 I hope to get into **<font color="#B42B36">Carnegie Mellon University🌟</font>** ~~in 10 years~~. Just dream big and work hard! 
 
