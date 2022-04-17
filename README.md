@@ -4,7 +4,7 @@
 
 ✒️ My previous background is mainly related to **graphic design**, while I am moving to **software engineering** and **computer science**. Learning `react-native🌸`, `Python🐍` and `Java☕️`.
 
-🏫 I hope to get into **<font color="#B42B36">Carnegie Mellon University🌟</font>** ~~in 10 years~~. Just dream big and work hard! 
+🏫 I hope to get into **<font color="#B42B36">Carnegie Mellon University🌟</font>** ~~in 10 years~~. Just dream big and work hard! ([Really?](https://github.com/baisebaoma/no-bailan))
 
 **~~Possible~~ research interests**
 
