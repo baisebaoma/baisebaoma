@@ -1,23 +1,19 @@
 ### 👋 Glad to see you! **Yiming (baisebaoma) Tang** here.
 
-⌨️ Undergraduate of **<font color="#1C2A67">University of Nottingham Ningbo China</font>**, working for a start-up as a **front-end developer** and a technical media company as a **designer**. Enjoy 🎵 and 🎹 as well.
+⌨️ Undergraduate of **<font color="#1C2A67">University of Nottingham Ningbo China</font>**, working for a start-up as a **front-end developer** and a tech-related media group as a **designer**. Enjoy 🎵 and 🎹.
 
-✒️ My previous background is mainly related to **graphic design**, while I am moving to **software development** and **computer science**. Learning `react-native🌸`, `Python🐍` and `Java☕️`.
+📖 Learning `react-native🌸`, `Python🐍` and `Java☕️`.
 
-🏫 I've received some postgraduate offers. When my MSc finished, I hope to get into **<font color="#B42B36">Carnegie Mellon University🌟</font>** for a **further** Master degree or PhD. Seems quite unrealistic but let's dream big and work hard.
-
-#### Possible research interests
+#### Research interests
 
 - Software Engineering
-- Human-Computer Interaction
 - Computer Security & Cyber Security
-- Computer Vision
+- Human-Computer Interaction
 
-Since I have no papers/articles, I assume them to be my **possible** research interests. I will explore these areas more and hopefully I would make contributions to them. You will be highly appreciated if you can guide me a road!
+You will be highly appreciated if you can guide me a road!
 
-#### Contact me
+#### Contact
 
-- **Personal (preferred): baisebaoma@foxmail.com**
-- University: scyyt1@nottingham.edu.cn
+baisebaoma@foxmail.com
 
-_Last updated 17, April 2022_
+_Last updated May 3 2022_
