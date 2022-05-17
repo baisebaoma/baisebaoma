@@ -1,10 +1,6 @@
 ### 👋 Glad to see you! **Yiming (baisebaoma) Tang** here.
 
-⌨️ Undergraduate of **University of Nottingham Ningbo China**, working for a start-up as a **front-end developer** and a tech-related media group as a **designer**. Enjoy 🎵 and 🎹.
-
-🎓 See my [WCU admission](./WCU_Admission_Decision_Accept_Graduate_Yiming_Tang_May_16_2022.pdf)!
-
-📖 Learning `react-native🌸`, `Python🐍`, `Java☕️`.
+⌨️ Undergraduate of **University of Nottingham Ningbo China**, working for a start-up as a **front-end developer** and a tech-related media group as a **designer**. Enjoy 🎵 and 🎹. Learning `react-native🌸`, `Python🐍`, `Java☕️`.
 
 #### Research interests
 
