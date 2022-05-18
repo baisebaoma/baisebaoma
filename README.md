@@ -1,6 +1,6 @@
-### 👋 Glad to see you! **Yiming (baisebaoma) Tang** here.
+### 👋 Glad to see you! **baisebaoma** here.
 
-⌨️ Undergraduate of **University of Nottingham Ningbo China**, working for a start-up as a **front-end developer** and a tech-related media group as a **designer**. Enjoy 🎵 and 🎹. Learning `react-native🌸`, `Python🐍`, `Java☕️`.
+⌨️ Undergraduate of **University of Nottingham Ningbo China**, working for a start-up as a **front-end developer** ~~and a tech-related media group as a **designer** (resigned)~~. Enjoy 🎵 and 🎹. Learning `react-native🌸`, `Python🐍`, `Java☕️`.
 
 #### Research interests
 
