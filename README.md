@@ -3,17 +3,13 @@
 
 👋🏻 我是 baisebaoma，[宁波诺丁汉大学](https://www.nottingham.edu.cn/)计算机科学与人工智能荣誉学士，目前正在攻读[佐治亚理工学院](https://www.gatech.edu/)的计算机科学硕士。
 
-🔍 正在推进学业线和就业线，期待实习机会。
-
-🀄️ 四川麻将业余 5 级。
+🀄️ 四川麻将业余 4 级。
 
 🔠 普通话、英语、粤语。
 
-👋🏻 I am baisebaoma，[University of Nottingham Ningbo China](https://www.nottingham.edu.cn/) MSc Computer Science and Artificial Inteligence, [Georgia Institute of Technology](https://www.gatech.edu/) MS Computer Science student.
+👋🏻 I am baisebaoma, [University of Nottingham Ningbo China](https://www.nottingham.edu.cn/) MSc Computer Science and Artificial Inteligence, [Georgia Institute of Technology](https://www.gatech.edu/) MS Computer Science student.
 
-🔍 Looking for internship oppotunities.
-
-🀄️ Sichuan Mahjong Amateur Level 5.
+🀄️ Sichuan Mahjong Amateur Level 4.
 
 🔠 Mandarin Chinese, English, Cantonese.
 
