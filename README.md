@@ -9,21 +9,21 @@
 
 > 🇺🇸 **English version is at the bottom.**
 >
-> 📍 **当前状态:** 佐治亚理工学院 CS 硕士在读 | 🎓 2025 年 12 月毕业  
+> 📍 **当前状态:** 空窗期（2026.1）
 > 🌏 **坐标:** 深圳 / 长沙
 
 ---
 
 ### 👨🏻‍💻 关于我
 
-我是 **baisebaoma**，一名即将毕业的计算机科学硕士生。我本科毕业于**宁波诺丁汉大学**（CS & AI），目前就读于**佐治亚理工学院**。
+我是 **baisebaoma**！宁波诺丁汉大学计算机与人工智能理学学士、佐治亚理工学院计算机科学硕士。
 
 我是一个典型的 **INFP-T**，性格比较内向、随和，但在自己感兴趣的领域（比如钻研游戏机制或折腾新软件）会非常投入。我并不算是一个传统的“硬核”程序员，我更喜欢作为一名 **AI-Native 开发者**，利用大语言模型（LLMs）作为副驾驶来构建有趣的项目。
 
 ### 🚀 正在做的事
 
 * 💻 **Side Projects:** 我有很多想实现的想法！目前正在规划开发**音乐游戏**、**网页版联机日麻**以及**联机卡牌游戏**。如果你也对这些感兴趣，或者想找人一起实现项目，非常欢迎联系我！
-* 🔭 **Seeking:** 正在寻找 **2025/2026 年的实习或全职工作机会**。
+* 🔭 **Seeking:** 正在寻找 **2026 年的全职工作机会**。
 
 ### 🏆 精选项目与社区贡献
 
@@ -39,7 +39,7 @@
 * 🀄️ **麻将爱好者:**
     * 📱 **工具开发:** 我开发了一个手机麻将计分器，欢迎查看我的 [majhelper](https://github.com/baisebaoma/majhelper) 仓库！
     * 📦 **收藏与副业:** 我收藏了大约 30 副中古麻将牌，同时也在经营麻将销售的副业。
-    * 🀄️ **日本麻将:** 我非常沉迷日麻，也是《雀魂》(Mahjong Soul) 玩家。
+    * 🀄️ **日本麻将:** 我非常沉迷日麻，也是《雀魂》(MahjongSoul) 玩家。
     * 📖 **其他规则:** 基本上只要是麻将规则，我都很乐意边学边玩！
 * 🎮 **游戏与设计:**
     * 🛠️ **桌游 DIY:** 我曾制作过《三国杀》DIY 武将并将其代码实现到了《新月杀》中（参考我的 [jianyu](https://github.com/baisebaoma/jianyu) 仓库）。这算是我早期的游戏设计与逻辑实现经历！
@@ -59,6 +59,7 @@
 
 ### ⚡ 小趣事
 
+* 🤔 **网名** “baisebaoma”是我小学大约四年级时起的网名，本来叫“白色饱马”。我沿用到了现在，但主要以拼音状态示人了。
 * 🔮 **预言家?** 我小时候曾设计过两个《英雄联盟》英雄的核心机制——贝蕾亚的“不可控”和凯隐的“双形态”，没想到多年后它们真的在游戏中实现了！
 * 🏋🏻 **理论健身专家:** 我一直有一个完美的健身计划，但我执行它的次数……嗯，屈指可数。
 
@@ -70,7 +71,7 @@
 
 ### 🌟 精选仓库
 
-[![Star History Chart](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)](https://star-history.com/#baisebaoma/baiduqianxi&baisebaoma/jianyu&baisebaoma/SurviveGTSIManual&baisebaoma/majhelper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)
 
 *如有建议或发现 Bug，欢迎提 Issue！*
 
@@ -83,19 +84,19 @@
   <h2>🇺🇸 English Version</h2>
 </div>
 
-> 📍 **Current Status:** Master's Student @ Georgia Tech | 🎓 Class of Dec 2025  
+> 📍 **Current Status:** Exploring (Jan 2026)
 > 🌏 **Location:** Shenzhen / Changsha, China
 
 ### 👨🏻‍💻 About Me
 
-I am **baisebaoma**, an aspiring software engineer and a CS Master's student. I hold a B.Sc. in Computer Science & AI from **University of Nottingham Ningbo China** and am currently finishing my M.S. in Computer Science at **Georgia Tech**.
+I am **baisebaoma**! BSc Hons CS & AI @ University of Nottingham Ningbo China, MS CS @ Georgia Institute of Technology.
 
 As an **INFP-T**, I might be a bit introverted, but I am deeply passionate about the things I love. I embrace the **AI-Native** workflow—I specialize in leveraging Large Language Models (LLMs) to bring creative ideas to life efficiently.
 
 ### 🚀 What I'm Up To
 
 * 💻 **Side Projects:** I have a backlog of ideas waiting to be built, including a **Rhythm Game** (inspired by my gaming days), a web-based **Riichi Mahjong** platform, and online card games. I am open to collaboration!
-* 🔭 **Seeking:** Actively looking for **internship or full-time opportunities** (2025/2026).
+* 🔭 **Seeking:** Actively looking for **full-time opportunities** (2026).
 
 ### 🏆 Featured Projects & Community Impact
 
@@ -111,7 +112,7 @@ I take great pride in helping others through my code, whether they are researche
 * 🀄️ **Mahjong Enthusiast:**
     * 📱 **Tool Dev:** I developed a mobile Mahjong Scorer app. Check out the [majhelper](https://github.com/baisebaoma/majhelper) repo!
     * 📦 **Collector & Seller:** I own a collection of about 30 traditional/vintage mahjong sets and run a side business selling them.
-    * 🀄️ **Riichi Mahjong:** I am addicted to Riichi Mahjong and play on Mahjong Soul.
+    * 🀄️ **Riichi Mahjong:** I am addicted to Riichi Mahjong and play on MahjongSoul.
     * 📖 **Variants:** I am open to learning and playing any Mahjong variant!
 * 🎮 **Gaming & Game Design:**
     * 🛠️ **Board Game Modding:** I designed custom characters for **Legends of the Three Kingdoms** and implemented them into **Xinyuesha** (see my [jianyu](https://github.com/baisebaoma/jianyu) repo). This served as my early practice in game design and logic implementation.
@@ -131,6 +132,7 @@ I've built many small tools to solve my own problems—even if some are now depr
 
 ### ⚡ Fun Facts
 
+* 🤔 **Nickname:** "baisebaoma" is a handle I created around 4th grade in elementary school. It was originally "白色饱马" (White Full Horse). I’ve been using it ever since, though now it's primarily presented in Pinyin.
 * 🔮 **LoL Prophet?** As a child, I designed core mechanics for two champions (**Briar's** uncontrollable frenzy & **Kayn's** dual forms), which surprisingly became reality years later!
 * 🏋🏻 **The "Theoretical" Gym-goer:** I always have a perfect workout plan, but let's just say my attendance record is... still loading.
 
@@ -142,7 +144,7 @@ I've built many small tools to solve my own problems—even if some are now depr
 
 ### 🌟 Selected Repositories
 
-[![Star History Chart](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)](https://star-history.com/#baisebaoma/baiduqianxi&baisebaoma/jianyu&baisebaoma/SurviveGTSIManual&baisebaoma/majhelper&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)](https://api.star-history.com/svg?repos=baisebaoma/baiduqianxi,baisebaoma/jianyu,baisebaoma/SurviveGTSIManual,baisebaoma/majhelper&type=Date)
 
 <br/>
 
